@@ -1,0 +1,16 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "to-do list made only by myself",
+  "repository": {
+    "type": "git",
+    "url": "todo-list"
+  },
+  "license": "ISC",
+  "author": "claudia-galan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
